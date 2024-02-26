@@ -2,20 +2,22 @@ Decker Mecham
 
 dmecham@chapman.edu
 
-CPSC 350 (Chapman University) : Rene German
+CPSC 350 (Chapman University): Rene German
 
-Assignment Name : Robber Language Translation (Rövarspråket language)
+Assignment Name: Robber Language Translation (Rövarspråket language)
 
 Abstract:
 
-Translate english to robber language without the use of any non-primitive data structures. (No arrays, Vectors, Lists, etc)
+Translate English to the robber language without the use of any non-primitive data structures. (No arrays, Vectors, Lists, etc)
 Just use individual primitive variables (int, double, etc) and std strings. 
 
-Commands to compile / run:
+Commands to compile/run:
 
 To compile
+
     g++ *.cpp 
 To run
+
     ./a.out
 
 
