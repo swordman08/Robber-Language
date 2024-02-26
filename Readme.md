@@ -1,6 +1,9 @@
 Decker Mecham
+
 dmecham@chapman.edu
+
 CPSC 350 (Chapman University) : Rene German
+
 Assignment Name : Robber Language Translation (Rövarspråket language)
 
 Abstract:
